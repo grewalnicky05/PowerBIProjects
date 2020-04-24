@@ -1,0 +1,6 @@
+These are reports on a fictitious company called Maximum Miniatures from the book "Delivering Business Intelligence with Microsoft SQL Server 2016"
+The first dashboard consists of reports that were created from the books instructions while the second dashboard consists of reports I created on my own.
+I included reports from the books as I felt they gave a good glance at the company but decided to focus on increasing loyalty in the second dashboard.
+I included the top spending customers and products as well as a map to show revenue in each state.
+I included an average sales value as an aid to implement potential loyalty offers. The average is around $90 dollars so we can set a spending minimum of $90 to recieve free shipping for online orders or 10% off coupons given in store for the next purchase.
+I included a median spent each year value as well as a gauge to start loyaly levels. I used median instead of average because the ranges that customers were spending were varying from $50/year to millions per year. I felt median was a better indicator for the majority of customers.
